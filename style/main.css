@@ -320,7 +320,8 @@ hr {
   transition: 100ms ease-in-out;
   -webkit-transition-property: -webkit-transform;
   -moz-transition-property: -moz-transform;
-  transition-property: transform; }
+  transition-property: transform; 
+  background-color: rgb(0, 255, 255) !important; }
   .tile .tile-inner {
     border-radius: 3px;
     background: #eee4da;
